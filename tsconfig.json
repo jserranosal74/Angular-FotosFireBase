@@ -1,6 +1,6 @@
 /* To learn more about this file see: https://angular.io/config/tsconfig. */
 {
-  "compileOnSave": false, // prueba en git remota
+  "compileOnSave": false, // prueba en git remota 2
   "compilerOptions": {
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
